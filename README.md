@@ -4,7 +4,8 @@
 ## Feature
 1. Select the apk file to be installed;
 2. Press the set shortcut key to complete the apk installation;
-(When multiple devices are connected, there will be a list selection option)
+(When multiple devices are connected, there will be a list selection option)；
+3. Installation results and abnormal situations have notification reminders。
 
 ## Steps for usage:
 1. Download [ApkInstall.alfredworkflow](./ApkInstall.alfredworkflow) file, double-click to complete the installation;
